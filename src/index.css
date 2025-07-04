@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap);
+
+body {
+  font-family: "DM Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+textarea {
+  width: 100%;
+  border: 0.05rem solid #C9C9C9;
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+  box-sizing: border-box;
+  resize: vertical;
+}
+
+textarea:focus {
+  border: 0.1rem solid #51AA2E;
+  outline: none;
+}
+
+textarea:active {
+  outline: none;
+  border: 0.1rem solid #51AA2E;
+}

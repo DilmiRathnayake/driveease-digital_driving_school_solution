@@ -1,0 +1,13 @@
+.formlayoutRegistration{
+	display: flex;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.formlayoutSaveRegistration{
+	margin-top: 30px;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	width: 100%;
+}

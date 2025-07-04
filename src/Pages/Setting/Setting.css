@@ -1,0 +1,64 @@
+.dx-datagrid .dx-header-row {
+    background-color: #8d8d8d;
+    color: #ffffff;
+	font-weight: bold;
+}
+
+.dx-datagrid .dx-header-row .dx-header-cell {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.dx-toolbar.dx-popup-title  {
+	background-color: #8d8d8d !important;
+	color: #ffffff;
+}
+
+.dx-link-edit {
+	text-decoration: none !important;
+	background-color: gray;
+	color: white !important;
+	padding: 4px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 2px;
+}
+
+.dx-link-delete {
+	text-decoration: none !important;
+	background-color: rgb(255, 0, 0);
+	color: white !important;
+	padding: 4px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 2px;
+	/* font-size: x-small; */
+}
+
+.dx-link-copy {
+	text-decoration: none !important;
+	background-color: gray;
+	color: white !important;
+	padding: 4px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 2px;
+}
+
+.dx-link-password {
+	text-decoration: none !important;
+	background-color: rgb(128, 128, 128);
+	color: white !important;
+	padding: 4px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 2px;
+}
+
+.containerCommon {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	width: 100%;
+	height: 5vh;
+}
